@@ -1,6 +1,6 @@
 # MusicStorm
 
-基于AR技术和网络爬虫的音乐聚合服务平台 -- 聚音乐
+基于AR技术和网络爬虫的音乐聚合移动应用 -- 聚音乐
 
 ![MusicStorm image](resources/musicstorm.png)
 
