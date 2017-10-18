@@ -14,6 +14,12 @@
 
 ![QR Code](https://qr.api.cli.im/qr?data=https%253A%252F%252Fmodao.cc%252Fapp%252FsULvGw8Mmb2h7CpdiaJlwshN3TxdXub&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=http%3A&size=150&kid=cliim&key=b2b1694885d4d6c9d0253d1d540d4cf5)
 
+## 我们的团队
+
+队长: 陈国津
+
+队员: 王子彦 钟昌宏 蔡百灵
+
 ## 技术支持
 
 如果您有任何问题，请通过 <a href="https://github.com/android-app-development-course/MusicStorm/issues" target="_blank">Issues</a> 与我们联系。
