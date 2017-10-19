@@ -12,7 +12,7 @@
 
 您可以点击<a href="https://modao.cc/app/sULvGw8Mmb2h7CpdiaJlwshN3TxdXub" target="_blank"> 此处 </a>查看产品原型，或扫描二维码在手机上查看。
 
-![QR Code](https://qr.api.cli.im/qr?data=https%253A%252F%252Fmodao.cc%252Fapp%252FsULvGw8Mmb2h7CpdiaJlwshN3TxdXub&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=http%3A&size=150&kid=cliim&key=b2b1694885d4d6c9d0253d1d540d4cf5)
+![QR Code](resources/app-demo-modao-qrcode.png)
 
 ## 我们的团队
 
